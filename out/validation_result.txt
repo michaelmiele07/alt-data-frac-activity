@@ -1,0 +1,4 @@
+quarters tested: 45  (2015Q1-2026Q1, >=6 names/quarter)
+mean top-minus-bottom tertile fwd return (months 2-4): -0.66%/quarter
+two-sided permutation p-value (2000 shuffles within quarter): 0.802
+survivorship: 12 delisted tickers excluded: ['CHK', 'CIVI', 'CLR', 'CPE', 'CTRA', 'CXO', 'HES', 'MRO', 'PDCE', 'PXD', 'SWN', 'XEC']

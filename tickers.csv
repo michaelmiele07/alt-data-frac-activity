@@ -1,0 +1,54 @@
+operator_pattern,ticker,owner,valid_from,valid_to,note
+EOG RESOURCES,EOG,EOG Resources,2012-01,,
+PIONEER NATURAL RESOURCES,PXD,Pioneer Natural Resources,2012-01,2024-04,standalone until XOM close 2024-05
+PIONEER NATURAL RESOURCES,XOM,ExxonMobil,2024-05,,acquired by XOM May 2024
+XTO ENERGY,XOM,ExxonMobil,2012-01,,XTO is XOM subsidiary
+OCCIDENTAL OIL AND GAS,OXY,Occidental,2012-01,,
+ANADARKO PETROLEUM,OXY,Occidental,2019-08,,OXY closed Anadarko Aug 2019
+DIAMONDBACK E&P,FANG,Diamondback Energy,2012-01,,
+ENDEAVOR ENERGY,FANG,Diamondback Energy,2024-09,,FANG closed Endeavor Sep 2024
+ENDEAVOR ENERGY,,private,2012-01,2024-08,private before FANG deal
+DEVON ENERGY,DVN,Devon Energy,2012-01,,
+WPX ENERGY,DVN,Devon Energy,2021-01,,merged Jan 2021
+CONTINENTAL RESOURCES,CLR,Continental Resources,2012-01,2022-11,taken private by Hamm Nov 2022
+CONTINENTAL RESOURCES,,private,2022-12,,
+COG OPERATING,CXO,Concho Resources,2012-01,2021-01,COG=Concho operating entity
+COG OPERATING,COP,ConocoPhillips,2021-02,,COP closed Concho Jan 2021
+CONOCOPHILLIPS,COP,ConocoPhillips,2012-01,,
+BURLINGTON RESOURCES,COP,ConocoPhillips,2012-01,,
+CHEVRON USA,CVX,Chevron,2012-01,,
+NOBLE ENERGY,CVX,Chevron,2020-10,,CVX closed Noble Oct 2020
+PDC ENERGY,PDCE,PDC Energy,2012-01,2023-07,standalone until CVX close Aug 2023
+PDC ENERGY,CVX,Chevron,2023-08,,
+HESS CORPORATION,HES,Hess,2012-01,2024-06,standalone until CVX close Jul 2024
+HESS CORPORATION,CVX,Chevron,2024-07,,
+MARATHON OIL,MRO,Marathon Oil,2012-01,2024-10,standalone until COP close Nov 2024
+MARATHON OIL,COP,ConocoPhillips,2024-11,,
+PERMIAN RESOURCES,PR,Permian Resources,2021-09,,
+CIMAREX ENERGY,XEC,Cimarex,2012-01,2021-09,merged with Cabot into Coterra Oct 2021
+CIMAREX ENERGY,CTRA,Coterra Energy,2021-10,,
+OVINTIV,OVV,Ovintiv,2020-01,,
+BPX OPERATING,BP,BP plc,2012-01,,foreign-listed ADR
+CHESAPEAKE OPERATING,CHK,Chesapeake,2012-01,2024-09,merged into Expand Energy Oct 2024
+CHESAPEAKE OPERATING,EXE,Expand Energy,2024-10,,
+SOUTHWESTERN ENERGY,SWN,Southwestern,2012-01,2024-09,merged into Expand Energy Oct 2024
+SOUTHWESTERN ENERGY,EXE,Expand Energy,2024-10,,
+SM ENERGY,SM,SM Energy,2012-01,,
+APACHE CORPORATION,APA,APA Corp,2012-01,,
+MATADOR PRODUCTION,MTDR,Matador Resources,2012-01,,
+EQT PRODUCTION,EQT,EQT Corp,2012-01,,
+CIVITAS,CIVI,Civitas Resources,2021-11,,
+ANTERO RESOURCES,AR,Antero Resources,2013-10,,
+RANGE RESOURCES,RRC,Range Resources,2012-01,,
+COMSTOCK OIL & GAS,CRK,Comstock Resources,2012-01,,
+HIGHPEAK ENERGY,HPK,HighPeak Energy,2020-08,,
+MURPHY,MUR,Murphy Oil,2012-01,,
+CALLON PETROLEUM,CPE,Callon,2012-01,2024-03,standalone until APA close Apr 2024
+CALLON PETROLEUM,APA,APA Corp,2024-04,,
+MEWBOURNE OIL,,private,2012-01,,large private operator - excluded
+HILCORP ENERGY,,private,2012-01,,
+AETHON ENERGY,,private,2012-01,,
+CROWNQUEST,,private,2012-01,2024-07,CrownRock affiliate
+CROWNQUEST,OXY,Occidental,2024-08,,OXY closed CrownRock Aug 2024
+ASCENT RESOURCES,,private,2012-01,,
+BLACKBEARD OPERATING,,private,2012-01,,

@@ -1,0 +1,23 @@
+Completion activity, 2026Q2 vs 2025Q2 (min 10 jobs/quarter)
+NOTE: FracFocus filings lag job end by 30-90 days; 2026Q2 may still
+be incomplete for slow-filing states. Re-run in September for final.
+
+  RRC  jobs   20  YoY  +66.7%  water YoY  +76.6%
+ MTDR  jobs   36  YoY  +20.0%  water YoY  +61.0%
+  DVN  jobs  134  YoY  +19.6%  water YoY  +21.7%
+ CIVI  jobs   38  YoY   +0.0%  water YoY   -1.4%
+ FANG  jobs  108  YoY   -1.8%  water YoY   -2.1%
+   PR  jobs   61  YoY   -3.2%  water YoY   -8.6%
+  APA  jobs   54  YoY   -5.3%  water YoY  -10.6%
+  OXY  jobs  112  YoY  -13.2%  water YoY   +0.7%
+  CRK  jobs   12  YoY  -20.0%  water YoY  -20.8%
+  OVV  jobs   28  YoY  -22.2%  water YoY  -12.5%
+  COP  jobs  202  YoY  -30.8%  water YoY   -3.4%
+ CTRA  jobs   49  YoY  -31.0%  water YoY  -12.7%
+  EQT  jobs   23  YoY  -34.3%  water YoY  -27.0%
+   AR  jobs   10  YoY  -37.5%  water YoY  -58.8%
+   BP  jobs   30  YoY  -37.5%  water YoY  -56.1%
+  CVX  jobs  108  YoY  -39.7%  water YoY  -37.3%
+   SM  jobs   23  YoY  -57.4%  water YoY  -58.4%
+  XOM  jobs   85  YoY  -63.4%  water YoY  -58.4%
+  EOG  jobs   17  YoY  -89.2%  water YoY  -86.3%
