@@ -56,3 +56,8 @@ survive complete data? (2) do their Q3 production prints beat consensus?
 
 Data: FracFocus bulk download is public. This is research, not investment
 advice.
+
+## Deliverables
+
+- Technical research note: [`out/frac_activity_note.pdf`](out/frac_activity_note.pdf)
+- One-page investment brief (idea, companies, angle): [`out/frac_investment_brief.pdf`](out/frac_investment_brief.pdf)
