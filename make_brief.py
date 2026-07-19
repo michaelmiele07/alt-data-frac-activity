@@ -53,12 +53,12 @@ doc = SimpleDocTemplate(str(OUT / "frac_investment_brief.pdf"),
                         rightMargin=0.85 * inch, topMargin=0.7 * inch,
                         bottomMargin=0.65 * inch)
 story = [
-    Paragraph("Investment Brief: Frack Disclosures as a Real-Time E&amp;P Activity Tracker", S["title"]),
-    Paragraph("Companion to the technical note &nbsp;·&nbsp; Michael Miele &nbsp;·&nbsp; July 18, 2026 &nbsp;·&nbsp; "
-              "github.com/michaelmiele07/alt-data-frac-activity", S["sub"]),
+    Paragraph("Reading the Field: Fracturing Disclosures as a Leading Indicator for Shale Producers", S["title"]),
+    Paragraph("Investment brief &nbsp;·&nbsp; Michael Miele &nbsp;·&nbsp; July 18, 2026 &nbsp;·&nbsp; "
+              "companion to the technical note &nbsp;·&nbsp; github.com/michaelmiele07/alt-data-frac-activity", S["sub"]),
     HRFlowable(width="100%", thickness=0.7, color=HexColor(RULE), spaceAfter=7),
 
-    Paragraph("The idea in one paragraph", S["h"]),
+    Paragraph("The premise", S["h"]),
     Paragraph(
         "US law requires every hydraulic-fracturing job to be disclosed to the FracFocus registry — operator, well, "
         "dates, water volume. A frack job is the last capital step before a well produces, and it happens a quarter "
@@ -66,7 +66,7 @@ story = [
         "field-level read on who is accelerating and who is quietly slowing, weeks-to-months before guidance "
         "updates, from a free public database refreshed continuously.", S["body"]),
 
-    Paragraph("Why it should work (and what the test showed)", S["h"]),
+    Paragraph("The mechanism — and what the test showed", S["h"]),
     Paragraph(
         "Completions mechanically lead first production; water volume proxies job intensity (bigger fracks, longer "
         "laterals). The map to tickers uses <b>M&amp;A ownership windows</b> so Pioneer's activity counts as XOM only "
@@ -76,10 +76,10 @@ story = [
         "outperforming</i> (PXD, HES, MRO). Activity growth also isn't automatically value creation in shale; the "
         "signal's natural product is production-surprise forecasting, not a long-short ranking.", S["body"]),
 
-    Paragraph("Companies this touches", S["h"]),
+    Paragraph("The investable universe", S["h"]),
     table,
 
-    Paragraph("The investment angle", S["h"]),
+    Paragraph("How an investor would use it", S["h"]),
     Paragraph(
         "(1) <b>Production-surprise watchlist:</b> operators whose completion count accelerates ahead of consensus "
         "models. Current board (2026Q2 vs 2025Q2, partial data): <b>RRC +67%, MTDR +20%, DVN +20%</b> against broad "
@@ -92,7 +92,7 @@ story = [
         "and CrownRock's CrownQuest operator <b>#18 of 496</b> — both private. Today's equivalents on that screen: "
         "Mewbourne (#8 in 2023) and BlackBeard (#9).", S["body"]),
 
-    Paragraph("Risks and honest caveats", S["h"]),
+    Paragraph("What could mislead you", S["h"]),
     Paragraph(
         "Filings lag job completion by 30–90 days, so the newest quarter is always partial — never trade the raw "
         "latest print. Gas-basin and oil-basin economics diverge; water volume is an intensity proxy, not EUR. The "
